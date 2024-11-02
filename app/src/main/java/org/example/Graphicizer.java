@@ -9,7 +9,6 @@ import java.awt.image.Kernel;
 import java.awt.image.MemoryImageSource;
 import java.awt.image.PixelGrabber;
 import java.io.File;
-import java.net.URL;
 import javax.imageio.ImageIO;
 
 /**
